@@ -1,3 +1,10 @@
+VERSION TRADUITE EN FRANCAIS DU SCRIPT "OPCache Status". 
+Outre les traductions, cette version comprend quelques changements mineurs de CSS. 
+
+
+THIS IS A FRENCH VERSION OF THE FOLLOWING SCRIPT:
+
+
 OPcache Status  [![Packagist](http://img.shields.io/packagist/v/rlerdorf/opcache-status.svg)](https://packagist.org/packages/rlerdorf/opcache-status)
 ---------------
 
